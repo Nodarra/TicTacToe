@@ -10,6 +10,9 @@ class App extends React.Component{
             <div className="game">
                 <Board />
                 <Stats />
+                <div>
+                    This is Changed
+                </div>
             </div>
         )
     }
